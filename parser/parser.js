@@ -1,4 +1,4 @@
-const spec = require("./openapi-spec.json");
+const spec = require("../openapi-spec.json");
 const fs = require("fs");
 const { exec } = require("child_process");
 const path = require("path");
@@ -50,10 +50,19 @@ pathsAndVals.forEach(([path, val]) => {
   fs.writeFileSync(`rst_in/${encodedPath}.rst`, val);
 });
 
-// unconvertable rst regex
-const REF_LIKE = /:[^\s]+:`.*<[^\s]+>`/; // like: :smthn:`text blah blah <text-no-spaces>`
-const SOURCE_CONSTANT_LIKE = /{\+[^\s]+\+}/; // like: {+TEXT_NO_SPACES+}
-const SUBSTITUTION_LIKE = /\|[^\s]+\|/;
+
+
+function replaceSourceConstants(input, refs, roles){
+  input.replace(REF_LIKE, (match, ..._, offset, input, __)=> {
+    console.log(match);
+    console.log(_);
+    console.log(offset);
+    console.log(input);
+    console.log(__);
+
+  })
+}
+
 
 // descSum.forEach((val, i) => {
 //   fs.writeFileSync(`rst_in/${i}.rst`, val[1]);
