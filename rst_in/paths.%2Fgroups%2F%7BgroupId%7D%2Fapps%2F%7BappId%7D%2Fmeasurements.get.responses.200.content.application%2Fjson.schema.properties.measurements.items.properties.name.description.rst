@@ -1,0 +1,1 @@
+The usage metric represented by each data point. See :doc:`billing </billing>`.

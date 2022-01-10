@@ -1,0 +1,1 @@
+Retrieve a :ref:`user <user-accounts>`.

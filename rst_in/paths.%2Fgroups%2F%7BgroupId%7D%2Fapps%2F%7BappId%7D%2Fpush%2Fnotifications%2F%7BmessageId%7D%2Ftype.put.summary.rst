@@ -1,0 +1,1 @@
+Set a :ref:`push notification's <push-notifications>` type.

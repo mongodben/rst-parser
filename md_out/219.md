@@ -1,0 +1,1 @@
+Delete an IP address or CIDR block from the Access List of your {+app+}

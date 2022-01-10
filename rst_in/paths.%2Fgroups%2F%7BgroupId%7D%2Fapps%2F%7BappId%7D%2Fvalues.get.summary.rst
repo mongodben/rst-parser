@@ -1,0 +1,1 @@
+List all :doc:`values </values-and-secrets>` defined in an application.

@@ -1,0 +1,1 @@
+Verify a that a user's :ref:`client access token <get-client-api-access-token>` is valid.

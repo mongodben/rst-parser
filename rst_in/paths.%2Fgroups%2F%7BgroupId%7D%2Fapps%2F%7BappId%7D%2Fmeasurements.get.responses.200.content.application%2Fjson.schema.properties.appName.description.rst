@@ -1,0 +1,1 @@
+The name of the Realm app specified by the ``appId`` path parameter.

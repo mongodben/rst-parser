@@ -1,0 +1,1 @@
+List all Realm apps within an |atlas| :atlas:`project/group </tutorial/manage-projects/>`.

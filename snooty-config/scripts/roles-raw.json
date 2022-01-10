@@ -1,0 +1,842 @@
+{
+  "kbd": {
+    "help": "Mark a sequence of keystrokes.",
+    "type": "text"
+  },
+  "highlight-red": {
+    "help": "Highlight text with a red background",
+    "type": "text"
+  },
+  "highlight-yellow": {
+    "help": "Highlight text with a yellow background",
+    "type": "text"
+  },
+  "highlight-green": {
+    "help": "Highlight text with a green background",
+    "type": "text"
+  },
+  "highlight-blue": {
+    "help": "Highlight text with a blue background",
+    "type": "text"
+  },
+  "sub": {
+    "help": "Used to denote subscript text.",
+    "type": "text"
+  },
+  "superscript": {
+    "help": "Used to denote superscript text.",
+    "type": "text"
+  },
+  "sup": {
+    "inherit": "superscript"
+  },
+  "samp": {
+    "help": "Literal text where you may use curly braces to denote a \"variable\". For example, \"samp:`print(1+{x})`\".",
+    "type": "text"
+  },
+  "guilabel": {
+    "help": "Used to specify a label or button in a GUI.",
+    "type": "text"
+  },
+  "abbr": {
+    "help": "Abbreviation with hover text.",
+    "type": "text"
+  },
+  "file": {
+    "help": "Show a file path.",
+    "type": "text"
+  },
+  "command": {
+    "deprecated": true,
+    "type": "text"
+  },
+  "red": {
+    "type": "text"
+  },
+  "icon-fa5": {
+    "help": "Show a FontAwesome 5 Solid icon.",
+    "type": "explicit_title"
+  },
+  "icon": {
+    "inherit": "icon-fa5",
+    "type": "explicit_title"
+  },
+  "icon-fa5-brands": {
+    "help": "Show a FontAwesome 5 Brand icon.",
+    "type": "explicit_title"
+  },
+  "iconb": {
+    "inherit": "icon-fa5-brands"
+  },
+  "icon-mms": {
+    "help": "Show an MMS icon.",
+    "type": "explicit_title"
+  },
+  "icon-mms-org": {
+    "help": "Show an MMS-org icon.",
+    "type": "explicit_title"
+  },
+  "icon-charts": {
+    "help": "Show a MongoDB Charts icon.",
+    "type": "explicit_title"
+  },
+  "icon-fa4": {
+    "help": "Show a FontAwesome 4 icon.",
+    "type": "explicit_title"
+  },
+  "rfc": {
+    "help": "Reference an IETF RFC.",
+    "type": {
+      "link": "https://tools.ietf.org/html/%s"
+    }
+  },
+  "wikipedia": {
+    "help": "Reference a Wikipedia page.",
+    "type": {
+      "link": "https://en.wikipedia.org/wiki/%s"
+    }
+  },
+  "hardlink": {
+    "help": "Link to a URL in the current project.",
+    "type": "explicit_title"
+  },
+  "std:doc": {
+    "help": "Link to a page in the current project.",
+    "type": "explicit_title"
+  },
+  "api": {
+    "help": "Link to the api.mongodb.com API index.",
+    "type": {
+      "link": "https://api.mongodb.com/%s"
+    }
+  },
+  "aws": {
+    "help": "Link to the Amazon AWS documentation.",
+    "type": {
+      "link": "http://docs.aws.amazon.com%s"
+    }
+  },
+  "gcp": {
+    "help": "Link to the Google Cloud Platform documentation",
+    "type": {
+      "link": "https://cloud.google.com%s"
+    }
+  },
+  "azure": {
+    "help": "Link to the Microsoft Azure documentation",
+    "type": {
+      "link": "https://docs.microsoft.com/en-us/azure%s"
+    }
+  },
+  "gettingstarted": {
+    "help": "Link to the MongoDB Getting Started guide.",
+    "type": {
+      "link": "https://docs.mongodb.org/getting-started%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "master": {
+    "help": "Link to a path in the master branch of the current project.",
+    "type": "explicit_title"
+  },
+  "docsgithub": {
+    "help": "Link to a MongoDB Manual GitHub path.",
+    "type": {
+      "link": "http://github.com/mongodb/docs/blob/master/%s"
+    }
+  },
+  "guides": {
+    "help": "Link to a page in the MongoDB Guides site.",
+    "type": {
+      "link": "https://docs.mongodb.com/guides%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "mms-docs": {
+    "help": "Link to a page in the Cloud Manager documentation.",
+    "type": {
+      "link": "https://docs.cloudmanager.mongodb.com%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "mms-home": {
+    "help": "Link to a MongoDB Cloud Services page.",
+    "type": {
+      "link": "https://cloud.mongodb.com%s"
+    }
+  },
+  "osb": {
+    "help": "Link to a page in the Atlas Open Service Broker documentation.",
+    "type": {
+      "link": "https://docs.mongodb.com/atlas-open-service-broker/current%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "adl": {
+    "help": "Link to a page in the Atlas Data Lake documentation.",
+    "type": {
+      "link": "https://docs.mongodb.com/datalake%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "dochub": {
+    "help": "Specify a dochub link.",
+    "type": {
+      "link": "https://dochub.mongodb.org/core/%s"
+    }
+  },
+  "mongo-spark": {
+    "help": "Link to a page in the MongoDB Spark Connector GitHub project.",
+    "type": {
+      "link": "https://github.com/mongodb/mongo-spark%s"
+    }
+  },
+  "source": {
+    "help": "Link to a file in the MongoDB server GitHub project.",
+    "type": {
+      "link": "https://github.com/mongodb/mongo/blob/master/%s"
+    }
+  },
+  "ref": {
+    "help": "Link to a named target.",
+    "type": {
+      "domain": "std",
+      "name": "label",
+      "format": []
+    }
+  },
+  "mongodb:ref": {
+    "inherit": "ref"
+  },
+  "mongodb:card-ref": {
+    "help": "Create a reference, embedded within cards, with additional styling, that links to a named target.",
+    "example": ":card-ref:`Android <android-intro>`",
+    "inherit": "ref"
+  },
+  "mongodb:required": {
+    "type": "explicit_title"
+  },
+  "term": {
+    "help": "Link to a term in the glossary.",
+    "type": {
+      "domain": "std",
+      "name": "term",
+      "format": []
+    }
+  },
+  "issue": {
+    "help": "Link to a JIRA ticket.",
+    "type": {
+      "link": "https://jira.mongodb.org/browse/%s"
+    }
+  },
+  "technical-support": {
+    "help": "Link to the MongoDB support site.",
+    "type": {
+      "link": "https://docs.mongodb.com/manual/support%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "contact": {
+    "help": "Link to the MongoDB contact page.",
+    "type": {
+      "link": "https://www.mongodb.com/contact%s"
+    }
+  },
+  "mdbacct": {
+    "help": "Link to the MongoDB Account page.",
+    "type": {
+      "link": "https://account.mongodb.com/account%s"
+    }
+  },
+  "community-forum": {
+    "help": "Link to the MongoDB Community Forums page.",
+    "type": {
+      "link": "https://community.mongodb.com/%s"
+    }
+  },
+  "perl-api": {
+    "help": "Link to a page in the Perl driver's CPAN API reference.",
+    "type": {
+      "link": "https://metacpan.org/pod/MongoDB::%s"
+    }
+  },
+  "node-docs": {
+    "help": "Link to a page in the Node.js driver's documentation.",
+    "type": {
+      "link": "http://mongodb.github.io/node-mongodb-native/3.6/%s"
+    }
+  },
+  "node-api": {
+    "help": "Link to a page in the Node.js driver's API reference.",
+    "type": {
+      "link": "http://mongodb.github.io/node-mongodb-native/3.6/api/%s"
+    }
+  },
+  "node-api-4.0": {
+    "help": "Link to a page in Node.js driver V4.0's API reference.",
+    "type": {
+      "link": "https://mongodb.github.io/node-mongodb-native/4.0/%s"
+    }
+  },
+  "node-api-3.6": {
+    "help": "Link to a page in Node.js driver V3.6's API reference.",
+    "type": {
+      "link": "http://mongodb.github.io/node-mongodb-native/3.6/api/%s"
+    }
+  },
+  "ruby-api": {
+    "help": "Link to a page in the Ruby driver's API reference.",
+    "type": {
+      "link": "http://api.mongodb.com/ruby/current/Mongo/%s"
+    }
+  },
+  "ruby": {
+    "help": "Link to a page in the Ruby driver's documentation.",
+    "type": {
+      "link": "https://docs.mongodb.com/ruby-driver/current%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "scala-docs": {
+    "help": "Link to a page in the Scala driver's documentation",
+    "type": {
+      "link": "http://mongodb.github.io/mongo-scala-driver/2.9%s"
+    }
+  },
+  "scala-api": {
+    "help": "Link to a page in the Scala driver's API reference.",
+    "type": {
+      "link": "http://mongodb.github.io/mongo-scala-driver/2.9/scaladoc/org/mongodb/scala/MongoCollection.html#%s"
+    }
+  },
+  "csharp-docs": {
+    "help": "Link to a page in the C# driver's documentation.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-csharp-driver/2.10/%s"
+    }
+  },
+  "csharp-api": {
+    "help": "Link to a page in the C# driver's API reference.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-csharp-driver/2.10/apidocs/html/%s.htm"
+    }
+  },
+  "java-docs": {
+    "help": "Link to the Java driver's documentation.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.2/%s"
+    }
+  },
+  "java-docs-4.3": {
+    "help": "Link to the Java driver's documentation.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.3/%s"
+    }
+  },
+  "java-async-docs": {
+    "help": "Link to the async Java driver's documentation.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.2/driver-reactive/%s"
+    }
+  },
+  "java-async-api": {
+    "help": "Link to the async Java driver's API reference.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.2/apidocs/mongodb-driver-reactivestreams/%s"
+    }
+  },
+  "java-core-api": {
+    "help": "Link to the core Java driver's API reference.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.2/apidocs/mongodb-driver-core/%s"
+    }
+  },
+  "java-sync-api": {
+    "help": "Link to the synchronous Java driver's API reference.",
+    "type": {
+      "link": "https://mongodb.github.io/mongo-java-driver/4.2/apidocs/mongodb-driver-sync/%s"
+    }
+  },
+  "go-api": {
+    "help": "Link to the Go driver's API reference.",
+    "type": {
+      "link": "https://godoc.org/github.com/mongodb/mongo-go-driver/%s"
+    }
+  },
+  "atlas": {
+    "help": "Link to the synchronous Atlas documentation.",
+    "type": {
+      "link": "https://docs.atlas.mongodb.com%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v2.2": {
+    "type": {
+      "link": "https://docs.mongodb.com/v2.2%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v2.4": {
+    "type": {
+      "link": "https://docs.mongodb.com/v2.4%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v2.6": {
+    "type": {
+      "link": "https://docs.mongodb.com/v2.6%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v3.0": {
+    "type": {
+      "link": "https://docs.mongodb.com/v3.0%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v3.2": {
+    "type": {
+      "link": "https://docs.mongodb.com/v3.2%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v3.4": {
+    "type": {
+      "link": "https://docs.mongodb.com/v3.4%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v3.6": {
+    "type": {
+      "link": "https://docs.mongodb.com/v3.6%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v4.0": {
+    "type": {
+      "link": "https://docs.mongodb.com/v4.0%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v4.2": {
+    "type": {
+      "link": "https://docs.mongodb.com/v4.2%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v4.4": {
+    "type": {
+      "link": "https://docs.mongodb.com/v4.4%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v5.0": {
+    "type": {
+      "link": "https://docs.mongodb.com/v5.0%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v5.1": {
+    "type": {
+      "link": "https://docs.mongodb.com/v5.1%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "website": {
+    "help": "Link to a page in the MongoDB website.",
+    "type": {
+      "link": "https://www.mongodb.com%s?tck=docs"
+    }
+  },
+  "legal": {
+    "help": "Link to mongodb.com/legal/whatever",
+    "type": {
+      "link": "https://www.mongodb.com/legal%s?tck=docs_atlas"
+    }
+  },
+  "manual": {
+    "help": "Link to a page in the latest stable version of the MongoDB manual.",
+    "type": {
+      "link": "https://docs.mongodb.com/manual%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "cloudmgr": {
+    "help": "Link to a page in the Cloud Manager docs.",
+    "type": {
+      "link": "https://docs.cloudmanager.mongodb.com%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "opsmgr": {
+    "help": "Link to a page in the MMS Ops Manager documentation.",
+    "type": {
+      "link": "https://docs.opsmanager.mongodb.com/current%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "realm": {
+    "help": "Link to a page in the Realm docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/realm%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "stitch": {
+    "inherit": "realm"
+  },
+  "mdb-shell": {
+    "help": "Link to a page in the MongoDB Shell docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/mongodb-shell%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "mongosh": {
+    "inherit": "mdb-shell"
+  },
+  "charts": {
+    "help": "Link to a page in the Charts docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/charts/saas%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "charts-v0.10": {
+    "help": "Link to a page in v0.10 of the Charts docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/charts/v0.10%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "charts-v0.9": {
+    "help": "Link to a page in v0.9 of the Charts docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/charts/v0.9%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "charts-onprem": {
+    "help": "Link to a page in the newest edition of Charts onprem docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/charts/onprem%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "v0.10": {
+    "deprecated": true,
+    "inherit": "charts-v0.10"
+  },
+  "v0.9": {
+    "deprecated": true,
+    "inherit": "charts-v0.9"
+  },
+  "compass": {
+    "help": "Link to a page in the Compass docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/compass/current%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "dotnet-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/dotnet/latest/%s"
+    }
+  },
+  "ecosystem": {
+    "help": "Link to a page in the Ecosystem docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/drivers%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "driver": {
+    "help": "Link to a driver's page in the Ecosystem docs.",
+    "type": {
+      "link": "https://docs.mongodb.com/drivers%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "products": {
+    "help": "Link to a page in the MongoDB Products site.",
+    "type": {
+      "link": "https://www.mongodb.com/products%s"
+    }
+  },
+  "bic": {
+    "type": {
+      "link": "https://docs.mongodb.com/bi-connector/current%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "bic-v2.10": {
+    "type": {
+      "link": "https://docs.mongodb.com/bi-connector/v2.10%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "dbtools": {
+    "type": {
+      "link": "https://docs.mongodb.com/database-tools%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "k8s": {
+    "type": {
+      "link": "https://docs.mongodb.com/kubernetes-operator/stable%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "product": {
+    "type": {
+      "link": "http://www.mongodb.com/products/%s?tck=docs"
+    }
+  },
+  "dl": {
+    "type": {
+      "link": "http://www.mongodb.com/download-center/%s?tck=docs"
+    }
+  },
+  "wtdocs": {
+    "type": {
+      "link": "http://source.wiredtiger.com/mongodb-3.4%s"
+    }
+  },
+  "wtdocs-v4.0": {
+    "type": {
+      "link": "http://source.wiredtiger.com/mongodb-4.0%s"
+    }
+  },
+  "wtdocs-v4.2": {
+    "type": {
+      "link": "http://source.wiredtiger.com/mongodb-4.2%s"
+    }
+  },
+  "wtdocs-v4.4": {
+    "type": {
+      "link": "http://source.wiredtiger.com/mongodb-4.4%s"
+    }
+  },
+  "wtdocs-v5.0": {
+    "type": {
+      "link": "http://source.wiredtiger.com/mongodb-5.0%s"
+    }
+  },
+  "spec": {
+    "type": {
+      "link": "https://github.com/mongodb/specifications/blob/master/source%s"
+    }
+  },
+  "js-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/js/latest/%s"
+    }
+  },
+  "facebook": {
+    "type": {
+      "link": "https://developers.facebook.com/%s"
+    }
+  },
+  "fcm": {
+    "type": {
+      "link": "https://firebase.google.com/docs/%s"
+    }
+  },
+  "git-scm": {
+    "type": {
+      "link": "https://git-scm.com/%s"
+    }
+  },
+  "google": {
+    "type": {
+      "link": "https://developers.google.com/%s"
+    }
+  },
+  "github": {
+    "type": {
+      "link": "https://github.com/%s"
+    }
+  },
+  "github-dev": {
+    "type": {
+      "link": "https://developer.github.com/%s"
+    }
+  },
+  "twilio": {
+    "type": {
+      "link": "https://www.twilio.com/%s"
+    }
+  },
+  "mdn": {
+    "type": {
+      "link": "https://developer.mozilla.org/en-US/docs/%s"
+    }
+  },
+  "apollo": {
+    "type": {
+      "link": "https://www.apollographql.com/%s"
+    }
+  },
+  "aws-docs": {
+    "type": {
+      "link": "https://docs.aws.amazon.com/%s"
+    }
+  },
+  "aws-go": {
+    "type": {
+      "link": "https://docs.aws.amazon.com/sdk-for-go/api/service/%s"
+    }
+  },
+  "aws-iam": {
+    "type": {
+      "link": "https://docs.aws.amazon.com/IAM/latest/%s"
+    }
+  },
+  "aws-reference": {
+    "type": {
+      "link": "https://docs.aws.amazon.com/general/latest/%s"
+    }
+  },
+  "reactjs": {
+    "type": {
+      "link": "https://reactjs.org/%s"
+    }
+  },
+  "jwt-io": {
+    "type": {
+      "link": "https://jwt.io/%s"
+    }
+  },
+  "android": {
+    "type": {
+      "link": "https://developer.android.com/%s"
+    }
+  },
+  "apple": {
+    "type": {
+      "link": "https://developer.apple.com/%s"
+    }
+  },
+  "admin-api-endpoint": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm/admin/api/v3/#%s",
+      "ensure_trailing_slash": true
+    }
+  },
+  "java-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/java/latest/%s"
+    }
+  },
+  "kotlin-ext": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/java/latest/kotlin-extensions/%s"
+    }
+  },
+  "kotlin-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/kotlin/latest/%s"
+    }
+  },
+  "swift-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/swift/latest/%s"
+    }
+  },
+  "objc-sdk": {
+    "type": {
+      "link": "https://docs.mongodb.com/realm-sdks/objc/latest/%s"
+    }
+  },
+  "flutter-sdk": {
+    "type": {
+      "link": "https://pub.dev/documentation/realm/latest/%s"
+    }
+  },
+  "flutter": {
+    "type": {
+      "link": "https://docs.flutter.dev/%s"
+    }
+  },
+  "codesandbox": {
+    "type": {
+      "link": "https://codesandbox.io/%s"
+    }
+  },
+  "graphql": {
+    "type": {
+      "link": "https://graphql.org/%s"
+    }
+  },
+  "nodejs": {
+    "type": {
+      "link": "https://nodejs.org/%s"
+    }
+  },
+  "npm": {
+    "type": {
+      "link": "https://www.npmjs.com/%s"
+    }
+  },
+  "rubygems": {
+    "type": {
+      "link": "https://rubygems.org/%s"
+    }
+  },
+  "kafka-21-javadoc": {
+    "type": {
+      "link": "https://kafka.apache.org/21/javadoc/org/apache/kafka%s"
+    }
+  },
+  "typescript": {
+    "type": {
+      "link": "https://www.typescriptlang.org/%s"
+    }
+  },
+  "node-driver": {
+    "type": {
+      "link": "https://mongodb.github.io/node-mongodb-native/3.6/api/%s"
+    }
+  },
+  "xamarin": {
+    "type": {
+      "link": "https://docs.microsoft.com/en-us/xamarin/%s"
+    }
+  },
+  "k8sdocs": {
+    "type": {
+      "link": "https://kubernetes.io/docs%s"
+    }
+  },
+  "gopkg": {
+    "type": {
+      "link": "https://godoc.org%s"
+    }
+  },
+  "osi": {
+    "type": {
+      "link": "https://opensource.org%s"
+    }
+  },
+  "osil": {
+    "type": {
+      "link": "https://opensource.org/licenses/%s"
+    }
+  },
+  "tldrl": {
+    "type": {
+      "link": "https://www.tldrlegal.com/l/%s"
+    }
+  },
+  "q-mdb": {
+    "type": {
+      "link": "https://quay.io/mongodb%s"
+    }
+  },
+  "qr-mdb": {
+    "type": {
+      "link": "https://quay.io/repository/mongodb%s"
+    }
+  }
+}

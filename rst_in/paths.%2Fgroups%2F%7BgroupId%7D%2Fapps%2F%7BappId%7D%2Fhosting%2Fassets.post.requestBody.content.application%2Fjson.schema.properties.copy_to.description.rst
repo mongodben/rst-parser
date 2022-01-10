@@ -1,0 +1,1 @@
+The resource path to which the asset will be copied. Must be used with ``copy_from``.

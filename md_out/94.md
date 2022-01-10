@@ -1,0 +1,1 @@
+Successfully generated schema

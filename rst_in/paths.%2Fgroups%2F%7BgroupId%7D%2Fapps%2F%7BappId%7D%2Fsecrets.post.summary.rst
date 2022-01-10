@@ -1,0 +1,1 @@
+Create a new :doc:`Secret </values-and-secrets/define-and-manage-secrets>`.

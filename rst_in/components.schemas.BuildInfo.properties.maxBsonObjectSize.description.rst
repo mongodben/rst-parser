@@ -1,0 +1,1 @@
+A number that reports the :manual:`Maximum BSON Document Size </reference/limits/#BSON-Document-Size>`

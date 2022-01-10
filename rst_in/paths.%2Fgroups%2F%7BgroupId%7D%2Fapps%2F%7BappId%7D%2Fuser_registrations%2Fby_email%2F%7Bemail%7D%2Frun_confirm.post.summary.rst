@@ -1,0 +1,1 @@
+Re-runs a pending :ref:`user's <user-accounts>` :ref:`confirmation workflow <email-password-authentication-confirmation>`.

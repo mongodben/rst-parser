@@ -1,0 +1,1 @@
+**Required for Authentication Triggers** -- The :ref:`authentication operation type <authentication-event-operation-types>` to listen for.

@@ -1,0 +1,1 @@
+The version of the uploaded dependency.

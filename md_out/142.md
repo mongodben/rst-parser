@@ -1,0 +1,1 @@
+The UID representing the app domain.

@@ -1,0 +1,1 @@
+The authorization token provided in the ``refresh_token`` field of the `POST /auth/providers/{provider}/login <{+base-url+}{+admin-api-page+}post-/auth/providers/{provider}/login>`_ API endpoint.

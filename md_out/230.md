@@ -1,0 +1,1 @@
+At most 100 results per request.

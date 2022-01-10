@@ -1,0 +1,1 @@
+Get information about the underlying Atlas mongod.

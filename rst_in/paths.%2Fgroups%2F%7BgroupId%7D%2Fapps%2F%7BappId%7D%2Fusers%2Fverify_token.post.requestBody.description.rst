@@ -1,0 +1,1 @@
+The user's :ref:`client access token <get-client-api-access-token>`. This is distinct from the :ref:`API access token <realm-api-authentication>` you need to authenticate to the admin API.

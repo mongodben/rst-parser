@@ -1,0 +1,1 @@
+Success returns this object. A 200 :ref:`may also return token expired<verify-client-access-token-responses>`.

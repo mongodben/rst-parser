@@ -1,0 +1,1 @@
+Create an :doc:`authentication provider </authentication/providers>`.

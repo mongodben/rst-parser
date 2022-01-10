@@ -1,0 +1,1 @@
+The unique ``_id`` value of the MongoDB Cloud user that uploaded the dependency collection.

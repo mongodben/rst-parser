@@ -1,0 +1,1 @@
+Retrieve a :doc:`value </values-and-secrets>` definition from an application.

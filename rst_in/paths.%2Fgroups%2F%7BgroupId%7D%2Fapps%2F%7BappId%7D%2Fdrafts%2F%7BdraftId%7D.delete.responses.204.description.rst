@@ -1,0 +1,1 @@
+The draft was successfully discarded.

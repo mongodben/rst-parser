@@ -1,0 +1,1 @@
+Optional; contains :ref:`custom user data <custom-user-data>` if it exists for the user. Only present if the access token is created after custom user data is enabled and configured. Omitted if empty.

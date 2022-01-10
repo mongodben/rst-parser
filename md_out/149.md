@@ -1,0 +1,1 @@
+List a user's devices.

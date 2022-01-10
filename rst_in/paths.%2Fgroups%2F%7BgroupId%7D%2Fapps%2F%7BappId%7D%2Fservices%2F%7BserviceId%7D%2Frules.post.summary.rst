@@ -1,0 +1,1 @@
+Create a :ref:`rule <mongodb-rules>`.

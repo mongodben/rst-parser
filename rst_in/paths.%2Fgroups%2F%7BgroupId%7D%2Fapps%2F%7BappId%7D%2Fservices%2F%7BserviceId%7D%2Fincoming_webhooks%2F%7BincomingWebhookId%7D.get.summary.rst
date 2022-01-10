@@ -1,0 +1,1 @@
+Retrieve a :ref:`webhook <service-webhooks>`.

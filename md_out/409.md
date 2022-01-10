@@ -1,0 +1,1 @@
+Can only contain ASCII letters, numbers, underscores, and hyphens.

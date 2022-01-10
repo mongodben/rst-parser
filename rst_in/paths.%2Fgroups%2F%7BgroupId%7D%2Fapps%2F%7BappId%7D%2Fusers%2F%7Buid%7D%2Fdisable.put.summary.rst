@@ -1,0 +1,1 @@
+Disable a :ref:`user <user-accounts>`.

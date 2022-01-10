@@ -1,0 +1,1 @@
+Create a new :doc:`API key </authentication/api-key>`.

@@ -1,0 +1,1 @@
+Name of :ref:`supported template app <template-apps>` to serve as base template.

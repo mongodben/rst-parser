@@ -1,0 +1,1 @@
+A list of valid partition keys based on the cluster's collection schemas.

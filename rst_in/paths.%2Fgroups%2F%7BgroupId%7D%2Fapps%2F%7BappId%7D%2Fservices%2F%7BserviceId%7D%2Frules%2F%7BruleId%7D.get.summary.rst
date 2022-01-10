@@ -1,0 +1,1 @@
+Retrieve a :ref:`rule <mongodb-rules>`.

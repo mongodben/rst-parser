@@ -1,0 +1,1 @@
+Retrieve information about one of an application's :doc:`authentication providers </authentication/providers>`

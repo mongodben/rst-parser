@@ -1,0 +1,1 @@
+List the request, compute, sync, and data transfer usage in a given period for :doc:`billing </billing>` purposes.

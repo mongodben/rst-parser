@@ -1,0 +1,1 @@
+Retrieve a :ref:`push notification <push-notifications>` message.

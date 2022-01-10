@@ -1,0 +1,1 @@
+Delete a :doc:`Secret </values-and-secrets/define-and-manage-secrets>` associated with a Realm app.

@@ -1,0 +1,2 @@
+The ISO 8601 date and time of the start of the query period. Default is
+00:00:00 UTC on the first day of the current month.

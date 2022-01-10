@@ -1,0 +1,1 @@
+An :ref:`asset metadata document <asset-metadata-document>` (encoded as JSON).

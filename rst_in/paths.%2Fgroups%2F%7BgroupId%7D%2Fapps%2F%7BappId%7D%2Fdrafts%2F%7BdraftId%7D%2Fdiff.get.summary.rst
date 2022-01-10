@@ -1,0 +1,1 @@
+Return a diff between the currently deployed application and the specified draft.

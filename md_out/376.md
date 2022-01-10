@@ -1,0 +1,2 @@
+Human-readable version information about the mongod instance. This
+string will take the format `<major>.<minor>.<patch>`.

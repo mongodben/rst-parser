@@ -1,0 +1,1 @@
+Create a new :ref:`function <functions>`.

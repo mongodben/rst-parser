@@ -1,0 +1,1 @@
+Delete an :doc:`authentication provider </authentication/providers>`.

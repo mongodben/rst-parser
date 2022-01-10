@@ -1,0 +1,1 @@
+Delete a pending :ref:`user <user-accounts>`.

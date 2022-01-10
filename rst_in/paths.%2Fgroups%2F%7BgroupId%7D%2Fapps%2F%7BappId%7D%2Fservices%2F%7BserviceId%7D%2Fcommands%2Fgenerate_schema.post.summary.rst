@@ -1,0 +1,1 @@
+Sample a subset of documents in a collection to generate a JSON schema.

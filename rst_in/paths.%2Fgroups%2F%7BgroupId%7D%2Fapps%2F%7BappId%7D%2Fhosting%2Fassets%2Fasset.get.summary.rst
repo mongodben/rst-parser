@@ -1,0 +1,1 @@
+Retrieve metadata for a specific hosted asset

@@ -1,0 +1,1 @@
+Delete a :ref:`rule <mongodb-rules>`.

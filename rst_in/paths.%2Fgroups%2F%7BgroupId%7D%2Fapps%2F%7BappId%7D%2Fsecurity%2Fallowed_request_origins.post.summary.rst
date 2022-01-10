@@ -1,0 +1,1 @@
+Set the allowed :mdn:`HTTP origins <Web/HTTP/Headers/Origin>` from which {+service+} should allow requests.

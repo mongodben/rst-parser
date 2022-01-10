@@ -1,0 +1,2 @@
+An array of documents that each describe a dependency uploaded to the
+application.

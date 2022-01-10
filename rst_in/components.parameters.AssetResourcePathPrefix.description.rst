@@ -1,0 +1,1 @@
+Return only those assets where the resource path begins with the specified prefix.

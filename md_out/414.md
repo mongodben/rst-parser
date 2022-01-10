@@ -1,0 +1,2 @@
+A JSON expression that evaluates to `true` if the Function is allowed to
+run in response to an incoming request.

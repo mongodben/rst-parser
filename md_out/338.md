@@ -1,0 +1,1 @@
+The resource path of a hosted asset.

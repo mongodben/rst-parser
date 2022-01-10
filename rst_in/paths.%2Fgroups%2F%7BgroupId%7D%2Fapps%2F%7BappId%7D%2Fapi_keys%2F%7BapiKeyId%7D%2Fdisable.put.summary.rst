@@ -1,0 +1,1 @@
+Disable an :doc:`API key </authentication/api-key>`.

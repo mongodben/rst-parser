@@ -1,0 +1,1 @@
+Update a :ref:`service's <services>` configuration.

@@ -1,0 +1,1 @@
+Specify ``product=atlas`` to include :atlas:`Atlas trigger </triggers>` apps.

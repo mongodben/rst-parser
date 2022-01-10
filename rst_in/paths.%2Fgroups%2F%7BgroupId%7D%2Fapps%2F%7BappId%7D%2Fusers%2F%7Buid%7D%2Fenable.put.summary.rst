@@ -1,0 +1,1 @@
+Enable a :ref:`user <user-accounts>`.

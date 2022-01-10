@@ -1,0 +1,1 @@
+**Only Available for Authentication Triggers** -- A list of one or more :doc:`authentication provider </authentication/providers>` id values. The trigger will only listen for authentication events produced by these providers.

@@ -1,0 +1,1 @@
+Encountered an error while updating the trigger.

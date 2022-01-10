@@ -1,0 +1,1 @@
+A list where each item is the line-by-line diff for a specific configuration file.

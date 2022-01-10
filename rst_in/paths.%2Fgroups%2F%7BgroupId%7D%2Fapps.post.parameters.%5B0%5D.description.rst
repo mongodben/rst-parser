@@ -1,0 +1,1 @@
+Whether or not to create a default application.

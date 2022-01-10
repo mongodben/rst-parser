@@ -1,0 +1,1 @@
+Send a :ref:`push notification <push-notifications>`.

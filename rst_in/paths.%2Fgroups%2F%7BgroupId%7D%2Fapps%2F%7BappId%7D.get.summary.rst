@@ -1,0 +1,1 @@
+Retrieve an application definition.

@@ -1,0 +1,1 @@
+Delete a :doc:`value </values-and-secrets>` defined in an application.

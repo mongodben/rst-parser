@@ -1,0 +1,1 @@
+**Only Available for Database Triggers** -- If true, indicates that ``UPDATE`` change events should include the most current :manual:`majority-committed </reference/read-concern-majority/>` version of the modified document in the ``fullDocument`` field.

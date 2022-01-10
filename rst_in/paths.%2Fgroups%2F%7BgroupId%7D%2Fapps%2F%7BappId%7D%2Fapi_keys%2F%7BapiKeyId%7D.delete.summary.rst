@@ -1,0 +1,1 @@
+Delete an :doc:`API key </authentication/api-key>`.

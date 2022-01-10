@@ -1,0 +1,1 @@
+The size of the asset in bytes

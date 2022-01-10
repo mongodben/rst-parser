@@ -1,0 +1,1 @@
+Whether to only return errors.

@@ -1,0 +1,1 @@
+Authenticate as a Realm administrator. Use `GET /auth/providers <{+base-url+}{+admin-api-page+}get-/auth/providers>`_ to list the available authentication providers.

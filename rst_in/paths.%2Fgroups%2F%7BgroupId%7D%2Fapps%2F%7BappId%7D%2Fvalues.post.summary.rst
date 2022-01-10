@@ -1,0 +1,1 @@
+Define a :doc:`Value </values-and-secrets>` in an application.

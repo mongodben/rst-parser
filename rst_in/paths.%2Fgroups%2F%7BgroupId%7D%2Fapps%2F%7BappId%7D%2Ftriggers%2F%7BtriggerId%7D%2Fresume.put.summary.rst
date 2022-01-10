@@ -1,0 +1,1 @@
+Resume a suspended trigger.

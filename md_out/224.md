@@ -1,0 +1,1 @@
+Return only log messages associated with the given `user_id`.

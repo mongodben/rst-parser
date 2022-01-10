@@ -1,0 +1,1 @@
+Send a :doc:`confirmation email </email-password>`.

@@ -1,0 +1,1 @@
+List the allowed :mdn:`HTTP origins <Web/HTTP/Headers/Origin>` from which MongoDB Realm should allow requests.

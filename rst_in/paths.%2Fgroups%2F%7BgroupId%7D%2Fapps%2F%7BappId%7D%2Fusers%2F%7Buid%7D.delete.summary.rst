@@ -1,0 +1,1 @@
+Delete a :ref:`user <user-accounts>`.

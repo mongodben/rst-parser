@@ -1,0 +1,1 @@
+List :ref:`rules <mongodb-rules>`.

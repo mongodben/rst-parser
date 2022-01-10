@@ -1,0 +1,1 @@
+Confirm a pending :ref:`user <user-accounts>`.

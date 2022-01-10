@@ -1,0 +1,1 @@
+**Only Available for Scheduled Triggers** -- A :doc:`cron expression </triggers/cron-expressions>` that defines the trigger schedule.

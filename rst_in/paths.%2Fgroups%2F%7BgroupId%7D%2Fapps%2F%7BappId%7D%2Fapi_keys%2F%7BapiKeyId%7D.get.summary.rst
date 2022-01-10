@@ -1,0 +1,1 @@
+Retrieve information about an :doc:`API key </authentication/api-key>`.

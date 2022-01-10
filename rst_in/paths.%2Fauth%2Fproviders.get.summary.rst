@@ -1,0 +1,1 @@
+Enumerate available Realm administration authentication providers.

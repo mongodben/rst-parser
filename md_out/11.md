@@ -1,0 +1,1 @@
+Get information about the currently logged in user.

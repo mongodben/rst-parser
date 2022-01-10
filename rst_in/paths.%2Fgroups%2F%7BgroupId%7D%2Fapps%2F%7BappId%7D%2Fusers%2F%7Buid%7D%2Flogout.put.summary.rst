@@ -1,0 +1,1 @@
+Revoke all of a :ref:`user <user-accounts>`'s sessions.

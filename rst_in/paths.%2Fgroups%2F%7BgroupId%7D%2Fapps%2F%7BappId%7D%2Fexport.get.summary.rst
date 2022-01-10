@@ -1,0 +1,1 @@
+:ref:`Export <export-realm-app>` an application as a zip file.

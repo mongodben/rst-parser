@@ -1,0 +1,1 @@
+The name of the collection to sample and generate a schema for.

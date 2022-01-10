@@ -1,0 +1,1 @@
+Update an :doc:`authentication provider </authentication/providers>`.
