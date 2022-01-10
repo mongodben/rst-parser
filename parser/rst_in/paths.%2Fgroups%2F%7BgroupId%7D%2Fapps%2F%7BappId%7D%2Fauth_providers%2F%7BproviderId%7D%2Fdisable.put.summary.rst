@@ -1,1 +1,1 @@
-Disable an :doc:`authentication provider </authentication/providers>`.
+Disable an [authentication provider](https://docs.mongodb.com/realm/authentication/providers).

@@ -1,1 +1,1 @@
-Enable an :doc:`authentication provider </authentication/providers>`.
+Enable an [authentication provider](https://docs.mongodb.com/realm/authentication/providers).

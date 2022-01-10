@@ -1,1 +1,1 @@
-A refresh token you may provide in the ``Authorization`` header of `POST auth/session <{+base-url+}{+admin-api-page+}post-auth/session>`_ to obtain a new ``access_token`` for the current user session.
+A refresh token you may provide in the ``Authorization`` header of `POST auth/session <undefinedpost-auth/session>`_ to obtain a new ``access_token`` for the current user session.

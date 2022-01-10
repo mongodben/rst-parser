@@ -1,1 +1,1 @@
-Specify ``product=atlas`` to include :atlas:`Atlas trigger </triggers>` apps.
+Specify ``product=atlas`` to include [Atlas trigger](https://docs.atlas.mongodb.com/triggers) apps.

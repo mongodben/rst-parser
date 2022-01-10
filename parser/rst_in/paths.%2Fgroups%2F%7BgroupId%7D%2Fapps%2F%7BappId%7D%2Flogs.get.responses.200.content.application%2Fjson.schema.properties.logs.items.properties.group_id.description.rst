@@ -1,1 +1,1 @@
-An |atlas| :atlas:`Project/Group ID </tutorial/manage-projects/>`.
+An Atlas [Project/Group ID](https://docs.atlas.mongodb.com/tutorial/manage-projects/).

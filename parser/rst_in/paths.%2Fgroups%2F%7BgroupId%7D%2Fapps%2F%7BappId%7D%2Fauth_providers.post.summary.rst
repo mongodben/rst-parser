@@ -1,1 +1,1 @@
-Create an :doc:`authentication provider </authentication/providers>`.
+Create an [authentication provider](https://docs.mongodb.com/realm/authentication/providers).

@@ -1,1 +1,1 @@
-:doc:`values </values-and-secrets>` were successfully enumerated.
+[values](https://docs.mongodb.com/realm/values-and-secrets) were successfully enumerated.

@@ -1,7 +1,6 @@
-const spec = require("../openapi-spec.json");
+const spec = require("../../openapi-spec.json");
 const fs = require("fs");
-const { exec } = require("child_process");
-const cleanRst = require("./clean-rst");
+const path = require("path");
 
 function getValFromJSONPath(jsonObj, path) {
   const pathArr = path.split(".");
@@ -42,7 +41,6 @@ const pathsToDescriptionAndSummary = traversePaths(spec);
 const pathsAndVals = [];
 pathsToDescriptionAndSummary.forEach((path) => {
   const valAtPath = getValFromJSONPath(spec, path);
-  const cleanedVal = cleanRst(valAtPath);
   pathsAndVals.push([path, cleanedVal]);
 });
 pathsAndVals.forEach(([path, val]) => {

@@ -1,1 +1,1 @@
-Create a new :doc:`Secret </values-and-secrets/define-and-manage-secrets>`.
+Create a new [Secret](https://docs.mongodb.com/realm/values-and-secrets/define-and-manage-secrets).

@@ -1,1 +1,1 @@
-The :doc:`metadata attribute </hosting/file-metadata-attributes>` name.
+The [metadata attribute](https://docs.mongodb.com/realm/hosting/file-metadata-attributes) name.

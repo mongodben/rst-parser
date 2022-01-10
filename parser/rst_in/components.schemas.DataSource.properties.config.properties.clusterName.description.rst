@@ -1,1 +1,1 @@
-Name of {+atlas-short+} cluster associated with the {+app+}.
+Name of Atlas cluster associated with the Realm app.

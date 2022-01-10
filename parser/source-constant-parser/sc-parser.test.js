@@ -8,5 +8,5 @@ const PATH =
 
 fs.readFile(PATH, "utf8", (err, data) => {
   if (err) throw err;
-  console.log(scParser(data, SOURCE_CONSTANT_LIKE, sourceConstants));
+  console.log(scParser(data, sourceConstants));
 });

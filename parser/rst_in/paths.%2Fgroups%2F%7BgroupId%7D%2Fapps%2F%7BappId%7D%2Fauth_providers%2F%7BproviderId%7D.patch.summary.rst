@@ -1,1 +1,1 @@
-Update an :doc:`authentication provider </authentication/providers>`.
+Update an [authentication provider](https://docs.mongodb.com/realm/authentication/providers).

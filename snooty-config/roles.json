@@ -13,6 +13,7 @@
   "osb": "https://docs.mongodb.com/atlas-open-service-broker/current%s",
   "adl": "https://docs.mongodb.com/datalake%s",
   "dochub": "https://dochub.mongodb.org/core/%s",
+  "doc": "https://docs.mongodb.com/realm%s",
   "mongo-spark": "https://github.com/mongodb/mongo-spark%s",
   "source": "https://github.com/mongodb/mongo/blob/master/%s",
   "issue": "https://jira.mongodb.org/browse/%s",

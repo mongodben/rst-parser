@@ -1,1 +1,1 @@
-The :rfc:`RFC 3339 <3339>` date and time of the end of the query period, which can be specified with the ``end`` query parameter.
+The [RFC 3339](https://tools.ietf.org/html/3339) date and time of the end of the query period, which can be specified with the ``end`` query parameter.

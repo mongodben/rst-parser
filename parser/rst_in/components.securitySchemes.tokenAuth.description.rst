@@ -1,1 +1,1 @@
-The authorization token provided in the ``access_token`` field of the `POST /auth/providers/{provider}/login <{+base-url+}{+admin-api-page+}post-/auth/providers/{provider}/login>`_ and `POST /auth/session <{+base-url+}{+admin-api-page+}post-/auth/session>`_ API endpoints.
+The authorization token provided in the ``access_token`` field of the `POST /auth/providers/{provider}/login <undefinedpost-/auth/providers/{provider}/login>`_ and `POST /auth/session <undefinedpost-/auth/session>`_ API endpoints.
