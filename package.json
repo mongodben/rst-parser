@@ -1,0 +1,25 @@
+{
+  "name": "rst-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongodben/rst-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mongodben/rst-parser/issues"
+  },
+  "homepage": "https://github.com/mongodben/rst-parser#readme",
+  "dependencies": {
+    "domhandler": "^4.3.0",
+    "domutils": "^2.8.0",
+    "htmlparser2": "^7.2.0"
+  }
+}
