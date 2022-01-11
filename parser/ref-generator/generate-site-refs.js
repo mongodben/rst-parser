@@ -27,7 +27,7 @@ function generateAllRefsFromHtmlFiles(files) {
   return allRefs;
 }
 
-const sitePath = `${PROJECT_DIR}/parser/ref-parser/realm-site/docs.mongodb.com/realm`;
+const sitePath = `${PROJECT_DIR}/parser/ref-generator/realm-site/docs.mongodb.com/realm`;
 const siteHtmlFiles = getFilesInDirectoryAndSubDirs(sitePath).filter(
   (filename) => filename.endsWith(".html")
 );

@@ -27,7 +27,7 @@ function parseRefsFromHtml(filePath) {
   const refs = {};
   const relativeUrl = generateRelativeUrl(
     filePath,
-    `${PROJECT_DIR}/parser/ref-parser/realm-site/docs.mongodb.com`,
+    `${PROJECT_DIR}/parser/ref-generator/realm-site/docs.mongodb.com`,
     "/index.html"
   );
   const handler = new DomHandler((error, dom) => {
