@@ -1,0 +1,3 @@
+Set a [push
+notification's](/realm/push-notifications#std-label-push-notifications)
+type.

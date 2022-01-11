@@ -1,0 +1,2 @@
+The current resource path of the asset to copy. Must be used with
+`copy_to`.

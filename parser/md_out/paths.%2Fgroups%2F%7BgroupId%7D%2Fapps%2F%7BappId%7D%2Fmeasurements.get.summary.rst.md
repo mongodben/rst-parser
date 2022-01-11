@@ -1,0 +1,3 @@
+List the request, compute, sync, data transfer, and memory usage of a
+specific app in a given period for
+[billing](https://docs.mongodb.com/realm/billing) purposes.

@@ -1,0 +1,3 @@
+If `true`, the function is hidden from client applications. You can
+still call a private function from JSON expressions and other functions,
+including incoming webhooks and triggers.

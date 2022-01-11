@@ -1,0 +1,2 @@
+The current resource path of the asset to move. Must be used with
+`move_to`.

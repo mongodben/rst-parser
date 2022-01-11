@@ -1,0 +1,2 @@
+Retrieve information about one of an application's [authentication
+providers](https://docs.mongodb.com/realm/authentication/providers)

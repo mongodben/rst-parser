@@ -1,0 +1,2 @@
+A list where each element is the name of a file that was deleted in the
+draft.

@@ -1,0 +1,2 @@
+The stringified source code for the function. The code must be valid
+ES6.

@@ -1,0 +1,3 @@
+**Required for Database Triggers** -- The [database event operation
+types](/realm/triggers/database-triggers#std-label-database-events) to
+listen for. This must contain at least one value.

@@ -1,0 +1,3 @@
+The maximum number of log entries to include in the response. If the
+query matches more than this many logs, it returns documents in
+ascending order by date until the limit is reached.

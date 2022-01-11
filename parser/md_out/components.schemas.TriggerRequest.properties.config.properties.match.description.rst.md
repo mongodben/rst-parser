@@ -1,0 +1,6 @@
+**Only Available for Database Triggers** -- A
+[$match](https://docs.mongodb.com/manual/reference/operator/aggregation/match)
+expression document that MongoDB Realm includes in the underlying change
+stream pipeline for the trigger. This is useful when you want to filter
+change events beyond their operation type. The trigger will only fire if
+the expression evaluates to true for a given change event.

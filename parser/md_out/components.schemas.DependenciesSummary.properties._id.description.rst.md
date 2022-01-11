@@ -1,0 +1,1 @@
+The dependency collection's unique internal ID.

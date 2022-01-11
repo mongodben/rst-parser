@@ -1,0 +1,3 @@
+The time at which the dependencies were uploaded in [Unix
+time](https://en.wikipedia.org/wiki/Unix_time) (number of seconds since
+January 1, 1970 at 00:00 UTC).

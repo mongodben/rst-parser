@@ -1,0 +1,1 @@
+The size of the hosted asset in bytes

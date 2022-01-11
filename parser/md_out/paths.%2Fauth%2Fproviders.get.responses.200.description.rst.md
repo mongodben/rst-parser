@@ -1,0 +1,1 @@
+Successfully enumerated available authentication providers.

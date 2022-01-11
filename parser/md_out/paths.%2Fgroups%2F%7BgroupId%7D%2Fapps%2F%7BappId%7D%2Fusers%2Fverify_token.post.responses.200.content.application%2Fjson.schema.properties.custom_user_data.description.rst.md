@@ -1,0 +1,4 @@
+Optional; contains [custom user
+data](/realm/users/enable-custom-user-data#std-label-custom-user-data)
+if it exists for the user. Only present if the access token is created
+after custom user data is enabled and configured. Omitted if empty.

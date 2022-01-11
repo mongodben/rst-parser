@@ -1,0 +1,5 @@
+An object where each field name is an event processor ID and each value
+is an object that configures its corresponding event processor. The
+following event processors are supported: `AWS_EVENTBRIDGE` For an
+example configuration object, see [Send Trigger Events to AWS
+EventBridge](/realm/triggers/examples/send-events-aws-eventbridge#std-label-event_processor_example).

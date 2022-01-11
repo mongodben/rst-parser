@@ -1,0 +1,2 @@
+Send a [confirmation
+email](https://docs.mongodb.com/realm/email-password).
