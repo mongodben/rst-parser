@@ -5,9 +5,11 @@ const path = require("path");
 
 function convertRstToMd(rstFilePath, mdOutDir) {
   const split = rstFilePath.split("/");
-  const filename = split[split.length - 1];
+  let filename = split[split.length - 1];
+  filename = filename.slice(0, filename.length - 4); // remove '.rst' from new file name
+  const pathOut = path.join(mdOutDir, `${filename}.md`);
   exec(
-    `pandoc ${rstFilePath} -f rst  -t gfm -s -o ${mdOutDir}/${filename}.md`,
+    `pandoc ${rstFilePath} -f rst  -t gfm -s -o ${pathOut}`,
     (error, stdout, stderr) => {
       if (error) {
         console.log(`error: ${error.message}`);
