@@ -1,1 +1,1 @@
-Update a :ref:`service's <services>` configuration.
+Update a `service's </realm/services#std-label-services>`_ configuration.

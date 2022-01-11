@@ -1,1 +1,1 @@
-Verify a that a user's :ref:`client access token <get-client-api-access-token>` is valid.
+Verify a that a user's `client access token </realm/reference/authenticate-http-client-requests#std-label-get-client-api-access-token>`_ is valid.

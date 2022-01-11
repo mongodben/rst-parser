@@ -1,1 +1,1 @@
-Create a :ref:`user <user-accounts>`.
+Create a `user </realm/authentication#std-label-user-accounts>`_.

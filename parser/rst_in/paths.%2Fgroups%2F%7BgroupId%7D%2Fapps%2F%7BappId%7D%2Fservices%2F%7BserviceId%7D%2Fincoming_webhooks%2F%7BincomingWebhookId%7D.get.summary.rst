@@ -1,1 +1,1 @@
-Retrieve a :ref:`webhook <service-webhooks>`.
+Retrieve a `webhook </realm/services#std-label-service-webhooks>`_.

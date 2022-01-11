@@ -1,1 +1,1 @@
-Delete an [authentication provider](https://docs.mongodb.com/realm/authentication/providers).
+Delete an `authentication provider <https://docs.mongodb.com/realm/authentication/providers>`_.

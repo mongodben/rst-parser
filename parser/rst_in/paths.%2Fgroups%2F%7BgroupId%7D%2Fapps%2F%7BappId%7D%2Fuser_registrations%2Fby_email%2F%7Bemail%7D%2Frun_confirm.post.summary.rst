@@ -1,1 +1,1 @@
-Re-runs a pending :ref:`user's <user-accounts>` :ref:`confirmation workflow <email-password-authentication-confirmation>`.
+Re-runs a pending `user's <user-accounts>` :ref:`confirmation workflow </realm/authentication#std-label-user-accounts>`_.

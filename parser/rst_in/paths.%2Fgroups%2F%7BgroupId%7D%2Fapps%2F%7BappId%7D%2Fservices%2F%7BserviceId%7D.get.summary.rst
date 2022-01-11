@@ -1,1 +1,1 @@
-Retrieve a :ref:`service <services>`.
+Retrieve a `service </realm/services#std-label-services>`_.

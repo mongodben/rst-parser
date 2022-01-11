@@ -1,1 +1,1 @@
-The [value](https://docs.mongodb.com/realm/values-and-secrets) was successfully defined.
+The `value <https://docs.mongodb.com/realm/values-and-secrets>`_ was successfully defined.

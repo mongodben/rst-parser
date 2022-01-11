@@ -1,1 +1,1 @@
-List :ref:`functions <functions>`.
+List `functions </realm/functions#std-label-functions>`_.

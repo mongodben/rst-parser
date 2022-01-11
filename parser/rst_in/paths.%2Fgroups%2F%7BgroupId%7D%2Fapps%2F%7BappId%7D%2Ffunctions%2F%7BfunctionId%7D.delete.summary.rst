@@ -1,1 +1,1 @@
-Delete a :ref:`function <functions>`.
+Delete a `function </realm/functions#std-label-functions>`_.

@@ -1,1 +1,1 @@
-Update a :ref:`push notification <push-notifications>` message.
+Update a `push notification </realm/push-notifications#std-label-push-notifications>`_ message.

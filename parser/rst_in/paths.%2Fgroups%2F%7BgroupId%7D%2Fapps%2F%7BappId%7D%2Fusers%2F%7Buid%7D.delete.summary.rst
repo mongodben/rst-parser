@@ -1,1 +1,1 @@
-Delete a :ref:`user <user-accounts>`.
+Delete a `user </realm/authentication#std-label-user-accounts>`_.

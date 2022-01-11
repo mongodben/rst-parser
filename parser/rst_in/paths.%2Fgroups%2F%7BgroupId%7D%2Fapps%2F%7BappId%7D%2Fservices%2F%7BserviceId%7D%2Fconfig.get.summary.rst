@@ -1,1 +1,1 @@
-Retrieve a :ref:`service's <services>` configuration.
+Retrieve a `service's </realm/services#std-label-services>`_ configuration.

@@ -1,1 +1,1 @@
-Define a [Value](https://docs.mongodb.com/realm/values-and-secrets) in an application.
+Define a `Value <https://docs.mongodb.com/realm/values-and-secrets>`_ in an application.

@@ -1,1 +1,1 @@
-Disable a :ref:`user <user-accounts>`.
+Disable a `user </realm/authentication#std-label-user-accounts>`_.

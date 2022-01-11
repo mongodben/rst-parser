@@ -1,1 +1,1 @@
-List [API keys](https://docs.mongodb.com/realm/authentication/api-key) associated with a Realm app.
+List `API keys <https://docs.mongodb.com/realm/authentication/api-key>`_ associated with a Realm app.

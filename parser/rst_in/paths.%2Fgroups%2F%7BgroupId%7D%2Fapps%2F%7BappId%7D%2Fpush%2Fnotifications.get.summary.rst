@@ -1,1 +1,1 @@
-List :ref:`push notifications <push-notifications>`.
+List `push notifications </realm/push-notifications#std-label-push-notifications>`_.

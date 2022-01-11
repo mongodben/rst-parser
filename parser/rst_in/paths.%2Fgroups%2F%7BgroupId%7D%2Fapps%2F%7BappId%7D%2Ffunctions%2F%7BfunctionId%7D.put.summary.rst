@@ -1,1 +1,1 @@
-Update a :ref:`function <functions>`.
+Update a `function </realm/functions#std-label-functions>`_.

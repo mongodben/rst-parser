@@ -1,1 +1,1 @@
-Send a [confirmation email](https://docs.mongodb.com/realm/email-password).
+Send a `confirmation email <https://docs.mongodb.com/realm/email-password>`_.

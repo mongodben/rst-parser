@@ -1,1 +1,1 @@
-Delete a :ref:`service <services>`.
+Delete a `service </realm/services#std-label-services>`_.

@@ -1,1 +1,1 @@
-Create a :ref:`rule <mongodb-rules>`.
+Create a `rule </realm/rules#std-label-mongodb-rules>`_.

@@ -1,1 +1,1 @@
-Delete a pending :ref:`user <user-accounts>`.
+Delete a pending `user </realm/authentication#std-label-user-accounts>`_.

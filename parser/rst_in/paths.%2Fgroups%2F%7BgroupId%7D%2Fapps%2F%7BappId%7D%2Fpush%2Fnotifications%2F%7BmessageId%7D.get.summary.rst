@@ -1,1 +1,1 @@
-Retrieve a :ref:`push notification <push-notifications>` message.
+Retrieve a `push notification </realm/push-notifications#std-label-push-notifications>`_ message.

@@ -1,1 +1,1 @@
-Create a :ref:`service <services>`.
+Create a `service </realm/services#std-label-services>`_.

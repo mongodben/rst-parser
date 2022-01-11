@@ -1,1 +1,1 @@
-Delete a :ref:`webhook <service-webhooks>`.
+Delete a `webhook </realm/services#std-label-service-webhooks>`_.

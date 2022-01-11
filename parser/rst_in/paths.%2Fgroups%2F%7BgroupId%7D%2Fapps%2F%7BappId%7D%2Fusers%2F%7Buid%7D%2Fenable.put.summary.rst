@@ -1,1 +1,1 @@
-Enable a :ref:`user <user-accounts>`.
+Enable a `user </realm/authentication#std-label-user-accounts>`_.

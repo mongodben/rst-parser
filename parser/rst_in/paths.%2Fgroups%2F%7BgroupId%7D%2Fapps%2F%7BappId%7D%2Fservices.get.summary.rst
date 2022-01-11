@@ -1,1 +1,1 @@
-List all :ref:`services <services>` within an application.
+List all `services </realm/services#std-label-services>`_ within an application.

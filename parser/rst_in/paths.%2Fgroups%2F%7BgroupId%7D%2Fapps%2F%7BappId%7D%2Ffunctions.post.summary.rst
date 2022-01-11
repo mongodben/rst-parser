@@ -1,1 +1,1 @@
-Create a new :ref:`function <functions>`.
+Create a new `function </realm/functions#std-label-functions>`_.

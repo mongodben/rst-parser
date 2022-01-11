@@ -1,1 +1,1 @@
-**Only Available for Authentication Triggers** -- A list of one or more [authentication provider](https://docs.mongodb.com/realm/authentication/providers) id values. The trigger will only listen for authentication events produced by these providers.
+**Only Available for Authentication Triggers** -- A list of one or more `authentication provider <https://docs.mongodb.com/realm/authentication/providers>`_ id values. The trigger will only listen for authentication events produced by these providers.

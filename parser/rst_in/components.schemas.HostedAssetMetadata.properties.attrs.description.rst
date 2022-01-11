@@ -1,1 +1,1 @@
-An array of documents that each describe a [metadata attribute](https://docs.mongodb.com/realm/hosting/file-metadata-attributes) that applies to the asset.
+An array of documents that each describe a `metadata attribute <https://docs.mongodb.com/realm/hosting/file-metadata-attributes>`_ that applies to the asset.

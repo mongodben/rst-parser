@@ -1,1 +1,1 @@
-Confirm a pending :ref:`user <user-accounts>`.
+Confirm a pending `user </realm/authentication#std-label-user-accounts>`_.

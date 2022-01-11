@@ -1,1 +1,1 @@
-Revoke all of a :ref:`user <user-accounts>`'s sessions.
+Revoke all of a `user </realm/authentication#std-label-user-accounts>`_'s sessions.

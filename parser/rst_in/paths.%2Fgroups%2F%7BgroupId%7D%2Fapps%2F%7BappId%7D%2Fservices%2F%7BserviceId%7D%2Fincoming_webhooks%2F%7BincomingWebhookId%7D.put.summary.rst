@@ -1,1 +1,1 @@
-Update a :ref:`webhook <service-webhooks>`.
+Update a `webhook </realm/services#std-label-service-webhooks>`_.

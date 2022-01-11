@@ -1,1 +1,1 @@
-:ref:`Export <export-realm-app>` an application as a zip file.
+`Export </realm/manage-apps/configure/export-realm-app#std-label-export-realm-app>`_ an application as a zip file.

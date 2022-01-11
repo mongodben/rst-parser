@@ -1,1 +1,1 @@
-The Atlas [Group ID](https://docs.atlas.mongodb.com/tutorial/manage-projects/).
+The Atlas `Group ID <https://docs.atlas.mongodb.com/tutorial/manage-projects/>`_.

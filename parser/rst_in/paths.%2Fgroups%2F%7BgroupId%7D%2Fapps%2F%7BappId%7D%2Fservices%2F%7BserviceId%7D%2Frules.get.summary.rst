@@ -1,1 +1,1 @@
-List :ref:`rules <mongodb-rules>`.
+List `rules </realm/rules#std-label-mongodb-rules>`_.

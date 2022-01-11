@@ -1,1 +1,1 @@
-Delete a :ref:`rule <mongodb-rules>`.
+Delete a `rule </realm/rules#std-label-mongodb-rules>`_.

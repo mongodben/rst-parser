@@ -1,1 +1,1 @@
-List :ref:`external dependencies <external-dependencies>` uploaded to the Realm app.
+List `external dependencies </realm/functions#std-label-external-dependencies>`_ uploaded to the Realm app.

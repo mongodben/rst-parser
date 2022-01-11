@@ -1,1 +1,1 @@
-List :ref:`secrets <define-secret>` associated with a Realm app.
+List `secrets </realm/values-and-secrets/define-and-manage-secrets#std-label-define-secret>`_ associated with a Realm app.

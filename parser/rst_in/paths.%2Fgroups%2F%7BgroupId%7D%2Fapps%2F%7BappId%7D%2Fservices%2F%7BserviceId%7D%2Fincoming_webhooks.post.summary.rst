@@ -1,1 +1,1 @@
-Create a :ref:`webhook <service-webhooks>`.
+Create a `webhook </realm/services#std-label-service-webhooks>`_.

@@ -1,1 +1,1 @@
-Set a :ref:`push notification's <push-notifications>` type.
+Set a `push notification's </realm/push-notifications#std-label-push-notifications>`_ type.

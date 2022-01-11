@@ -1,1 +1,1 @@
-Delete a :ref:`push notification <push-notifications>` message.
+Delete a `push notification </realm/push-notifications#std-label-push-notifications>`_ message.

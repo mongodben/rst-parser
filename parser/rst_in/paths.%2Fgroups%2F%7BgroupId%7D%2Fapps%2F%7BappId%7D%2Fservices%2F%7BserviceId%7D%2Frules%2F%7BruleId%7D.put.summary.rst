@@ -1,1 +1,1 @@
-Update a :ref:`rule <mongodb-rules>`.
+Update a `rule </realm/rules#std-label-mongodb-rules>`_.

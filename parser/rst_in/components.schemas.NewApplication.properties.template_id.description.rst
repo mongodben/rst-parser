@@ -1,1 +1,1 @@
-Name of :ref:`supported template app <template-apps>` to serve as base template.
+Name of `supported template app </realm/manage-apps/create/template-apps#std-label-template-apps>`_ to serve as base template.

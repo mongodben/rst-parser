@@ -1,1 +1,1 @@
-**Only Available for Database Triggers** -- If true, indicates that ``UPDATE`` change events should include the most current [majority-committed](https://docs.mongodb.com/manual/reference/read-concern-majority/) version of the modified document in the ``fullDocument`` field.
+**Only Available for Database Triggers** -- If true, indicates that ``UPDATE`` change events should include the most current `majority-committed <https://docs.mongodb.com/manual/reference/read-concern-majority/>`_ version of the modified document in the ``fullDocument`` field.

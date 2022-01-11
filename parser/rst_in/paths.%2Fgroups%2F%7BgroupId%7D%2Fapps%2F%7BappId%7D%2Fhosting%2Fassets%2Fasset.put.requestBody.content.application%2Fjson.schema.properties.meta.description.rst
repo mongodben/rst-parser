@@ -1,1 +1,1 @@
-An :ref:`asset metadata document <asset-metadata-document>` (encoded as JSON).
+An `asset metadata document </realm/admin/api/v3#std-label-asset-metadata-document>`_ (encoded as JSON).

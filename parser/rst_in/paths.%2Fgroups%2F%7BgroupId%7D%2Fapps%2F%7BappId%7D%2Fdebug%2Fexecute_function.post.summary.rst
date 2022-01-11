@@ -1,1 +1,1 @@
-Execute a :ref:`function <functions>` for testing.
+Execute a `function </realm/functions#std-label-functions>`_ for testing.

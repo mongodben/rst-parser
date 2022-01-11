@@ -1,1 +1,1 @@
-**Required for Database Triggers** -- The :ref:`database event operation types <database-events>` to listen for. This must contain at least one value.
+**Required for Database Triggers** -- The `database event operation types </realm/triggers/database-triggers#std-label-database-events>`_ to listen for. This must contain at least one value.

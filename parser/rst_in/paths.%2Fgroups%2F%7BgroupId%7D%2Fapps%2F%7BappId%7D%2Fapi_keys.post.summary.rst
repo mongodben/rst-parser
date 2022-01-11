@@ -1,1 +1,1 @@
-Create a new [API key](https://docs.mongodb.com/realm/authentication/api-key).
+Create a new `API key <https://docs.mongodb.com/realm/authentication/api-key>`_.

@@ -1,1 +1,1 @@
-Retrieve a :ref:`rule <mongodb-rules>`.
+Retrieve a `rule </realm/rules#std-label-mongodb-rules>`_.

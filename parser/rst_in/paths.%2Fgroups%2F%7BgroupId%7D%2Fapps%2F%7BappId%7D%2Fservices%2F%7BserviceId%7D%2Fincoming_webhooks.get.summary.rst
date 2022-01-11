@@ -1,1 +1,1 @@
-List :ref:`webhooks <service-webhooks>`.
+List `webhooks </realm/services#std-label-service-webhooks>`_.
