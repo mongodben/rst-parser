@@ -1,7 +1,6 @@
 const roleParser = require("./role-parser/role-parser");
 const scParser = require("./source-constant-parser/sc-parser");
 const subParser = require("./substitution-parser/sub-parser");
-const fs = require("fs");
 const roles = require("../snooty-config/roles.json");
 const refs = require("../snooty-config/refs.json");
 const scs = require("../snooty-config/source-constants.json");

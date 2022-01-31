@@ -22,6 +22,7 @@
     "domutils": "^2.8.0",
     "htmlparser2": "^7.2.0",
     "lodash": "^4.17.21",
+    "node-pandoc": "^0.3.0",
     "yamljs": "^0.3.0"
   }
 }
