@@ -14,9 +14,13 @@ async function rstToMd(inputRst) {
     fs.writeFileSync(tempRstFilePath, inputRst);
     const args = `pandoc ${tempRstFilePath} -f rst -t gfm --standalone`;
     const { stdout, stderr } = await exec(args);
-    if (stderr) throw new Error(stderr);
+    if (stderr) {
+      console.log("there was an error with pandoc at stderr:");
+      console.log(stderr);
+    }
     return stdout;
   } catch (err) {
+    console.error("error parsing RST to MD");
     console.error(err);
     return null;
   } finally {

@@ -23,6 +23,7 @@ function matchRefNodesCb(dom, relativePath, refs) {
   );
 }
 
+// TODO refactor this to make relative url dynamic
 function parseRefsFromHtml(filePath) {
   const refs = {};
   const relativeUrl = generateRelativeUrl(

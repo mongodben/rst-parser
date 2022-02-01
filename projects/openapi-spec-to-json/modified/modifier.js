@@ -1,6 +1,6 @@
 const spec = require("./spec.json");
 const fs = require("fs");
-const { PROJECT_DIR } = require("../settings");
+const { PROJECT_DIR } = require("../../../settings");
 const path = require("path");
 
 const trimWhiteSpace = (obj) => {
