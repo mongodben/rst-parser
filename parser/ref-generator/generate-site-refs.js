@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const { merge } = require("lodash");
-const { PROJECT_DIR } = require("../../settings");
+// const { PROJECT_DIR } = require("../../settings");
 const { parseRefsFromHtml } = require("./parse-refs-from-html");
 
 function getFilesInDirectoryAndSubDirs(rootDir, files = []) {
@@ -27,16 +27,25 @@ function generateAllRefsFromHtmlFiles(files) {
   return allRefs;
 }
 
-const sitePath = `${PROJECT_DIR}/parser/ref-generator/realm-site/docs.mongodb.com/realm`;
-const siteHtmlFiles = getFilesInDirectoryAndSubDirs(sitePath).filter(
-  (filename) => filename.endsWith(".html")
-);
-const refs = generateAllRefsFromHtmlFiles(siteHtmlFiles);
-fs.writeFileSync(
-  `${PROJECT_DIR}/snooty-config/refs.json`,
-  JSON.stringify(refs)
-);
+// const sitePath = `${PROJECT_DIR}/parser/ref-generator/realm-site/docs.mongodb.com/realm`;
+// const siteHtmlFiles = getFilesInDirectoryAndSubDirs(sitePath).filter(
+//   (filename) => filename.endsWith(".html")
+// );
+// const refs = generateAllRefsFromHtmlFiles(siteHtmlFiles);
+// fs.writeFileSync(
+//   `${PROJECT_DIR}/snooty-config/refs.json`,
+//   JSON.stringify(refs)
+// );
+
+function createRefsFromSite(siteDirIn) {
+  const siteHtmlFiles = getFilesInDirectoryAndSubDirs(siteDirIn).filter(
+    (filename) => filename.endsWith(".html")
+  );
+  const refs = generateAllRefsFromHtmlFiles(siteHtmlFiles);
+  return refs;
+}
 module.exports = {
   getFilesInDirectoryAndSubDirs,
   generateAllRefsFromHtmlFiles,
+  createRefsFromSite,
 };

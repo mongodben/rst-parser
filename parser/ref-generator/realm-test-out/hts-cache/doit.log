@@ -1,0 +1,8 @@
+https://docs.mongodb.com/realm/ -O realm-test-out +*docs.mongodb.com/realm/* -v
+File generated automatically on Tue, 01 Feb 2022 09:56:38, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
