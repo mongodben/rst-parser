@@ -1,7 +1,7 @@
-const fs = require("fs");
+// const fs = require("fs");
 const util = require("util");
 const exec = util.promisify(require("child_process").exec);
-const { PROJECT_DIR } = require("../settings");
+// const { PROJECT_DIR } = require("../settings");
 const path = require("path");
 
 async function convertRstToMd(rstFilePath, mdOutDir) {

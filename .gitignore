@@ -1,3 +1,5 @@
 realm-site
 node_modules
 .DS_Store
+# ignore directories of generated files
+gen_
